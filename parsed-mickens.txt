@@ -1,0 +1,1015 @@
+When I was in graduate school in Ann Arbor, I had a friend who was deeply involved with the environmentalist movement.
+
+He purchased his food from local farmers’ markets, and he commuted by bike instead of by car to reduce his carbon footprint, and he maintained a horrid compost bin that will probably be the origin of the next flu ppandemic.
+
+One day, he told me that he was going to visit a farm for a week.
+
+I asked him why, and he said that he wanted to “get closer to the land,” a phrase that you can only say with a straight face if you’re narrating a documentary about ancient South American tribes.
+
+I told my friend that the land didn’t want to get closer to him, and if he really looked at the land, he’d see that it was not composed of delicious organic trail mix, but famine and vultures and backbreaking labor involving wheelbarrows and generally un­acceptable quantities of insects.
+
+He responded with an extended lecture about eco-responsibility, a lecture that I immediately forgot because I realized that my naïve friend was going to die on that farm.
+
+So, I told my friend that he shouldn’t be afraid to end his trip early if he wasn’t having a good time.
+
+He smiled at me, the way that people in slasher movies smile before they get chopped up, and he left for the farm.
+
+Precisely 37 hours later, he called me on the phone.
+
+I asked him how everything was going, and he made a haunting, elegiac noise, like a foghorn calling out for its mate.
+
+I asked him to describe his first day, and he said that his entire existence revolved around bleating things: bleating goats that wanted to be fed, and bleating crows that wanted to steal the food that he gave the bleating goats, and bleating farm machines that were composed of spinning metal blades and had no discernable purpose besides enrolling you in the “Hook Hand of the Month” club.
+
+I asked my friend when he was coming back home, and he said that he was calling me from the Ann Arbor train station; he had already returned.
+
+And then he let out that foghorn noise, that awful, lingering sound, and I thought, MAYBE THAT’S THE FIRST SYMPTOM OF COMPOST BIN FLU.
+
+Computer scientists often look at Web pages in the same way that my friend looked at farms.
+
+People think that Web browsers are elegant computation platforms, and Web pages are light, fluffy things that you can edit in Notepad as you trade ironic comments with your friends in the coffee shop.
+
+Nothing could be further from the truth.
+
+A modern Web page is a catastrophe.
+
+It’s like a scene from one of those apocalyptic medieval paintings that depicts what would happen if Galactus arrived: people are tumbling into fiery crevasses and lamenting various lamentable things and hanging from playground equipment that would not pass OSHA safety checks.
+
+This kind of stuff is exactly what you’ll see if you look at the HTML,CSS, and JavaScript in a modern Web page.
+
+Of course, no human can truly “look” at this content, because a Web page is now like V’Ger from the first “Star Trek” movie, a piece of technology that we once understood but can no longer fathom, a thrashing leviathan of code and markup written by people so untrustworthy that they’re not even third parties, they’re fifth parties who weren’t even INVITED to the party, but who showed up anyways because the hippies got it right and free love or whatever.
+
+I’m pretty sure that the Web browser is one of the “dens of iniquity” that I keep hearing about on Fox News; I would verify this using a Web search, but a Web search would require me to use a browser, AND THIS IS EXACTLY WHAT BICOASTAL LIBERAL ELITES WANT ME TO DO.
+
+Describing why the Web is horrible is like describing why it’s horrible to drown in an ocean composed of pufferfish that are pregnant with tiny Freddy Kruegers—each detail is horrendous in isolation, but the aggregate sum is delightfully arranged into a hate flower that blooms all year.
+
+For example, the World Wide Web Consortium (W3C) provides “official” ­specifications for many client-side Web technologies.
+
+Unfortunately, these specifications are binding upon browser vendors in the same way that you can ask a Gila monster to meet you at the airport, but that gila monster may, in fact, have better things to do.
+
+Each W3C document is filled with alienating sentences that largely consist of hyperlinks to different hyperlinks.
+
+For instance, if you’re a browser vendor, and you want to add support for HTML selectors, you should remember that, during the third step of parsing the selector string, “If ­­ result is invalid ([SELECT], section 12), raise a SYNTAX_ERR exception ([DOM-LEVEL-3-CORE] , section 1.4) and abort this algorithm.”
+
+ Such bodice-ripping legalese is definitely exciting for people who yearn for the dullness of the Cheerios ingredient list combined with the multi-layered bureaucracy of the Soviet Union.
+
+Indeed, you could imagine a world in which browser vendors hire legions of Talmudic scholars to understand why, precisely, SYNTAX_ERR is orange and not mauve, and how, exactly, this orangeness relates to the parenthetic purpleness of ([DOM-LEVEL-3-CORE] ).
+
+You could also imagine a world in which browser vendors do not do this, and instead implement 53% of each spec and then hope that no Web page tries to use HTML selectors and then the geolocation interface and then a <canvas> tag, because that sequence of events will unleash the Antichrist and/or a rendered Web page that looks like one of those Picasso paintings that you pretend to understand, but which everyone wants to throw into an ocean because nobody wants to look at a painting of a blue man who is composed of isosceles triangles and has a guitar emerging from his forehead for no reason at all.
+
+Given the unbearable proliferation of Web standards, and the comically ill-expressed semantics of those standards, browser vendors should just give up and tell society to stop asking for such ridiculous things.
+
+However, this opinion is unpopular, because nobody will watch your TED talk if your sense of optimism is grounded in reality.
+
+I frequently try to explain to my friends why they should abandon Web pages and exchange information using sunlight reflected from mirrors, or the enthusiastic waving of colored flags.
+
+My friends inevitably respond with a spiritually vacant affirmation like, “People invented flying machines, so we can certainly make a good browser!
+
+” Unfortunately, defining success for a flying machine is easy (“I’M ME BUT I’M A BIRD”), whereas defining success for a Web browser involves Cascading Style Sheets, a technology which intrinsically dooms any project to epic failure.
+
+For the uninitiated, Cascading Style Sheets are a cryptic language developed by the Freemasons to obscure the visual nature of reality and encourage people to depict things using ASCII art.
+
+Ostensibly, CSS files allow you to separate the definition of your content from the definition of how that content looks—using CSS, you can specify the layout for your HTML tags, as well as the fonts and the color schemes used by those tags.
+
+Sadly, the relationship between CSS and HTML is the same relationship that links the instructions for building your IKEA bed, and the unassembled, spiteful wooden planks that purportedly contain latent bed structures.
+
+CSS is not so much a description of what your final page will look like, but rather a loose, high-level overview of what could happen to your page, depending on the weather, the stock market, and how long it’s been since you last spoke to your mother.
+
+Like a naïve Dungeon Master untouched by the sorrow of adulthood, you create imaginative CSS classes for your <div> tags and your <span> tags, assigning them strengths and weaknesses, and defining the roles that they will play in the larger, uplifting narrative of your HTML.
+
+Everything is assembled in its proper place; you load your page in a browser and prepare yourself for a ­glorious victory.
+
+However, you quickly discover that your elf tag is overweight.
+
+THE ELF CAN NEVER BE OVERWEIGHT.
+
+Even worse, your barbarian tag does not have an oversized hammer or axe.
+
+Without an oversized hammer or axe, YOUR BARBARIAN IS JUST AN ILLITERATE STEROID USER.
+
+And then you look at your wizard tag, and you see that he’s not an old white man with a flowing beard, but a young black man from Brooklyn.
+
+FOR COMPLEX REASONS THAT ARE ROOTED IN EUROPEAN COLONIAL NARRATIVES, YOUR WIZARD MUST BE AN OLD WHITE MAN WITH A FLOWING BEARD, NOT A BLACK MAN WITH HIPSTER SHOES AND A FANTASTIC VINYL COLLECTION.
+
+Such are the disasters that CSS will wroughth upon thee.
+
+Or wrought *at* thee.
+
+To be honest, I don’t know how to conjugate or spell “wrought,” but my point is undoubtedly understood. Or CSS’ (no trailing “s”) wroughtiness.
+
+MY NON-CASCADING STYLE MANUALS FIGHT FOR MY SOUL.
+
+When you’re a Web developer, CSS is just one of your worries.
+
+The aggregate stack of Web technologies is so fragile that developers just accept a world in which various parts of a Web page will fail at random times.
+
+Apparently this is okay because e-commerce isn’t a serious thing, and if you really wanted a secure banking experience, you’d visit the bank in person like someone from the 1800s instead of accessing a banking Web site that is constantly (but silently) vomiting execution errors to the console log (a console log which the browser does not show by default, because if you knew about it, and you read its tales of woe, you’d abandon computer science and become a maker of fine wooden shoes).
+
+In Figure 2, I provide an unaltered example of such a console log; the log was generated by a real Web page from a popular site.
+
+One time, I tried to build a browser-agnostic debugging infrastructure.
+
+I had a client-side JavaScript library that could traverse the JavaScript heap and display fun things about the page’s state.
+
+My art history friends told me that console output is for Neanderthals, so I made an HTML GUI to display the diagnostic information.
+
+The first version of the GUI used the browser’s default layout policies.
+
+Much like Icarus, I dreamt of more, so I decided to make A Fancy LayoutTM.
+
+I wrote CSS that specified whether my tags should have static positioning, or floating positioning, or relative zodiac-based positioning.
+
+Here’s what I learned: Never specify whether your tags should be static or floating or zodiac-based.
+
+As soon as a single tag is released from the automatic layout process, the browser will immediately go insane and stack random HTML tags along the z-axis, an axis which apparently is an option even if your monitor can only display two dimensions.
+
+I eventually found a working CSS file inside a bottle that washed up on the beach, and I tweaked the file until it worked for my GUI.
+
+Then I went home and cried big man tears that were filled with ninja stars and that turned into lions when they hit the ground.
+
+The first log entry says that the browser executed a downloaded file as JavaScript, even though the MIME type of the file was text/html.
+
+Here’s a life tip: when you’re confused about what something is, DON’T EXECUTE IT TO DISCOVER MORE CLUES.
+
+This is like observing that your next-door neighbor is a creepy, bedraggled man with weird eyes, and then you start falling asleep on his doorstep using a chloroform rag as a pillow, just to make sure that he’s not going to tie you to a radiator and force you to paint tiny figurines. Here’s how your life story ends: YOU ARE A PAINTER OF TINY FIGURINES.
+
+The second and third errors say that the page’s JavaScript used a variable name that is deprecated in strict mode, but acceptable in quirks mode.
+
+How can I begin to explain this delicious confection of awfulness?
+
+Listen: when a man and a woman fall in love, they want to demonstrate their love to each other.
+
+So, they force browsers to support different types of runtime environments.
+
+“Standards mode” refers to the unreliable browser APIs that are described by recent HTML and CSS specifications.
+
+“Quirks mode” refers to the unreliable browser APIs that were defined by browsers from the Eisenhower administration.
+
+Quirks mode was originally invented because many Web pages were made during the Eisenhower administration, and the computing industry wanted to preserve Web-based narratives about why “the rock and roll” is corrupting our youth.
+
+Quirks mode then persisted because Web developers learned about quirks mode and used it as an excuse to not learn new skills.
+
+But then some Web developers wanted to learn new skills, so standards mode was invented to allow these developers to make old mistakes in new ways.
+
+There is also a third browser mode called “almost standards mode”; this mode is similar to standards mode, except that it renders images inside table cells using the quirks mode algorithm.
+
+Yhey said that I could become anything, so I became the error log of a Web browser.
+
+Now I own fifteen cats and I wonder where the parties are.
+
+For reasons that have been eaten by a wildebeest, “almost standards mode” is also called “strict” mode, even though it is less strict than standards mode.
+
+For reasons so horrendous that the wildebeest would not eat them, there is no completely reliable way to make all browsers load your page using the same compatibility mode.
+
+Thus, even if your page recites the recommended incantations, the browser may still do what it wants to do, how it wants to do it.
+
+And that’s where babies come from.
+
+The fourth and seventh errors represent uncaught JavaScript exceptions.
+
+In a rational universe, a single uncaught exception would terminate a program, and if a program continued to execute after throwing such an exception, we would know that Ragnarok is here and Odin is not happy.
+
+In the browser world, ignoring uncaught exceptions is called “Wednesday, and all days not called ‘Wednesday.’”
+
+The JavaScript event loop is quite impervious to conventional notions of software reliability, so if an event handler throws an exception, the event loop will literally pretend like nothing happened and keep running.
+
+This ludicrous momentum continues even if, in the case of the seventh error, the Web page tries to call init() on an object that has no init() method.
+
+You should feel uncomfortable that a Web page can disagree with itself about the existence of initialization routines, but the page is still allowed to do things with things.
+
+Such a dramatic mismatch of expectations would be unacceptable in any other context.
+
+You would be sad if you went to the hospital to have your appendix removed, and the surgeon opened you up, and she said, “I DIDN’T EXPECT YOUR LIVER TO HAVE GILLS,” and then she proceeded with her original surgical plan, despite the fact that you’re apparently a mer-person.
+
+Being a mer-person should have non-ignorable ramifications in the material universe.
+
+Similarly, if a Web page thinks than an object should be initialized, but the object has no initialization method, the browser shouldn’t laugh about it and then proceed under the assumption that the rest of the page is agnostic about whether its objects are composed of folly.
+
+An interpretation of the remaining errors is left as an exercise to the reader.
+
+Note that understanding the eighth error requires a Ouija board, the eye of a newt, and the whispering of a secret to a long-lost friend.
+
+At this point, it should be intuitively obvious that different browsers may or may not produce the same error log for the same page.
+
+In general, if a Web page has more than three bits of entropy, different browsers will generate extravagantly unique mappings between the Web developer’s intentions and the schizophrenic beast palette that browsers use to paint the world.
+
+Thus, picking the “best browser” is like playing one of those horrid trust-building exercises where you decide which three of your five senses you would prefer to lose, and then your coworkers berate you for making different tradeoffs than they made, even though there is no partial ordering that relates scuba diving accidents in which you lose your ears and eyes, and industrial accidents in which you lose your nose and tongue.
+
+All options are bad options; it’s a world of lateral moves.
+
+Indeed, trying to pick the best browser is like trying to decide which of your worthless children should inherit the family business.
+
+Little Oliver refuses to accept society’s notion of what an event handling loop should do, so whenever the user presses a key on the keyboard, Oliver does not fire one keyPress event, but instead three keyDown events, a keyUp event, and the deleted saxophone solo from Mozart’s eighth symphony.
+
+Dearest Fiona, an unrepentant workaholic, designed her browser so that when you “close” it, the GUI goes away, but the underlying process lingers in the background, silent and angry, slowly consuming entries in kernel tables and making it impossible to restart the browser without receiving the error message “Somewhere in this world, another copy of the browser is running; find Carmen Sandiego and she will reveal the truth.
+
+Beloved Christopher, in an attempt to make his browser fast and lightweight, decided to replace his Flash plugin with code that prints “Shockwave has crashed” and then immediately dereferences a NULL pointer; this ensures that most attempts to watch a video will end with you wishing for the simpler audiovisual pleasures of a woodcut or cave painting.
+
+And poor IE6, voted “Least Likely to Succeed Because IE6 Is Not a Proper Christian Name,” manages to stumble through the world while surviving more assassination attempts than Fidel Castro.
+
+Each browser is reckless and fanciful in its own way, but all browsers share a love of epic paging to disk.
+
+Not an infrequent showering of petite I/Os that are aligned on the allocation boundaries of the file system—I mean adversarial thunder­ snows of reads and writes, a primordial deluge that makes you gather your kinfolk and think about which things you need two of, and what the consequences would be if you didn’t bring fire ants, because fire ants ruin summers.
+
+Browsers don’t require a specific reason to thrash the disk; instead, paging is a way of life for browsers, a leisure activity that is fulfilling in and of itself.
+
+If you’re not a computer scientist or a tinkerer, you just accept the fact that going to CNN.com will cause the green blinky light with the cylinder icon to stay green and not blinky.
+
+However, if you know how computers work, the incessant paging drives you mad.
+
+It turns you into Torquemada, a wretched figure consumed by the fear that your ideological system is an elaborate lie designed to hide the excessive disk seeks of shadowy overlords.
+
+You launch your task manager, and you discover that your browser has launched 67 different processes, all of which are named “browser.exe,” and all of which are launching desperate volleys of I/Os to cryptic parts of the file system like “\roaming\pots\pans\cache\4$$Dtub.partial”, where “\4$$” is an exotic escape sequence that resolves to the Latvian double umlaut.
+
+You do an Internet search for potential solutions, and you’re confronted with a series of contradictory, ill-founded opinions: your browser has a virus; your virus has a virus; you should be using Emacs; you should be using vi, and this is why your marriage is loveless.
+
+Of course, the most popular advice for solving any browser problem is to clear your browser cache.
+
+It is definitely true that emptying the cache will sometimes help, in the same sense that if you’re poor, kicking a tree will sometimes lead to a ­hilarious series of events that conclude with you finding a big bag of money on the ground with a note that says, “Spend it all! XOXO, Life.”
+
+Unfortunately, kicking a tree does not typically lead to riches, so your faith-based act of tree assault really just makes you a savage, tree-kicking monster who will be vilified by children and emotionally sensitive adults.
+
+Similarly, your arbitrary clearing of the browser cache, however well-intentioned, is just a topical anesthetic to briefly dull the pain of existence.
+
+Clearing the cache to fix a Web browser is like when your dad was driving you to kindergarten, and the car started to smoke, and he tried to fix the car by banging on the hood three times and then asking you if you could still smell the carbon monoxide, and you said, “Yeah, it’s better,” because you didn’t want to expose your dad as a fraud, and then both of you rode to school in silence as you struggled to remain conscious.
+
+So, yes, it would be great if fixing your browser involved actions that were not semantically equivalent to voodoo.
+
+But, on the bright side, things could always be worse.
+
+For example, it would definitely be horrible if your browser’s scripting language combined the prototype-based inheritance of Self, a quasi-functional aspect borrowed from LISP, a structured syntax adapted from C, and an aggressively asynchronous I/O model that requires elaborate callback chains that span multiple generations of hard-working Americans.
+
+OH NO I’VE JUST DESCRIBED JAVASCRIPT.
+
+What an unpleasant turn of events!
+
+People were begging for a combination of Self, LISP, and C in the same way that the denizens of Middle Earth were begging Saruman to breed Orcs and men to make Uruk-hai.
+
+Orcs and men were doing a fine job of struggling in their separate communities—creating a new race with the drawbacks of both is not a good way to win popularity contests.
+
+But despite its faults, JavaScript has become widespread.
+
+Discovering why this happened is similar to understanding the causes for World War I—everyone agrees on the top five reasons, but everyone ranks those causes differently.
+
+The basic story is that, in the ’90s, when JavaScript and Java were competing for client-side supremacy, Java applets were horrendously slow and lacked a story for interacting with HTML; in contrast, JavaScript was only semi-horrendously slow, and it had a bad (but extant) story for interacting with HTML.
+
+JavaScript is dynamically typed, and its aggressive type coercion rules were apparently designed by Monty Python.
+
+For example, 12 == “12” because the string is coerced into a number. This is a bit silly, but it kind of makes sense.
+
+Now consider the fact that null == undefined. That is completely janky; areference that points to null is not undefined—IT IS DEFINED AS POINTING TO THE NULL VALUE.
+
+And now that you’re warmed up, look at this: “\r\n\t” == false.
+
+Here’s why: the browser detects that the two operands have different types, so it converts false to 0 and retries the comparison. The operands
+still have different types (string and number), so the browser
+coerces “\r\n\t” into the number 0 , because somehow, a
+non-zero number of characters is equal to 0 . Voila — 0 equals
+0 ! AWESOME.
+
+That explanation was like the plot to Inception, but the implanted idea was “the correctness of your program has been coerced to false .”
+
+Hello, kind stranger—let me keep you warm during this cold winter night!
+
+Did you know that JavaScript defines a special NaN (“not a number”) value? This value is what you get when you do foolish things like parseInt(“BatmanIsNotAnInteger”).
+
+In other words, NaN is a value that is not indicative of a number. However, typeof(NaN) returns... “number.”
+
+A more obvious return value would be “HAIL BEELZEBUB, LORD OF DARKNESS,” but I digress.
+
+By the way, NaN != NaN , so Aristotle was wrong about that whole “Law of Identity” thing.
+
+DECAPITATE ME AND BURN MY WRITHING BODY WITH FIRE.
+
+I obviously get what I deserve if my JavaScript library redefines native prototypes in a way that breaks my own code.
+
+However, a single frame in a Web page contains multiple JavaScript libraries from multiple origins, so who knows what kinds of horrendous prototype manipulations those heathen libraries did before my library even got to run.
+
+This is just one of the reasons why the phrase “JavaScript security” causes Bibles to burst into flames.
+
+Also, JavaScript defines two identity operators (=== and ! == operators) which don’t perform the type coercion that the standard equality operators do; however, NaN ! == NaN.
+
+So, basically, don’t use numbers in JavaScript, and if you absolutely have to use numbers, implement a software-level ALU. It’s slow, but it’s the only way to be sure. Actually, you still can’t be sure.
+
+Unlike C++, which uses statically declared class interfaces, JavaScript uses prototype-based inheritance.
+
+A prototype is a dynamically defined object which acts as an exemplar for “instances” of that object.
+
+Much like C, JavaScript uses semicolons to terminate many kinds of statements.
+
+However, in JavaScript, if you forget a semicolon, the JavaScript parser can automatically insert semicolons where it thinks that semicolons might ought to possibly maybe go.
+
+This sounds really helpful until you realize that semicolons have semantic meaning.
+
+You can’t just scatter them around like you’re the Johnny Appleseed of punctuation.
+
+Automatically inserting semicolons into source code is like mishearing someone over a poor cell-phone connection, and then assuming that each of the dropped words should be replaced with the phrase “your mom.” This is a great way to create excitement in your interpersonal relationships, but it is not a good way to parse code.
+
+Some JavaScript libraries intentionally begin with an initial semicolon, to ensure that if the library is appended to another one (e.g., to save HTTP roundtrips during download), the JavaScript parser will not try to merge the last statement of the first library and the first statement of the second library into some kind of semicolon-riven statement party.
+
+Such an initial semicolon is called a “defensive semicolon.” That is the saddest programming concept that I’ve ever heard, and I am fluent in C++.
+
+I could go on and on about the reasons why JavaScript is a cancer upon the world.
+
+I know that there are people who like JavaScript, and I hope that these people find the mental health services that they so desperately need.
+
+I don’t know all of the answers in life, but I do know all of the things which aren’t the answers, and JavaScript falls into the same category as Scientology, homeopathic medicine, and making dogs wear tiny sweaters due to a misplaced belief that this is what dogs would do if they had access to looms and opposable thumbs.
+
+In summary, Web browsers are like quantum physics: they offer probabilistic guarantees at best, and anyone who claims to fully understand them is a liar.
+
+At this stage in human development, there are big problems to solve: climate change, heart disease, the poor financial situation of Nigerian princes who want to contact you directly.
+
+With all of these problems unsolved, Web browsing is a terrible way to spend our time; the last thing that we should do is run unstable hobbyist operating systems that download strange JavaScript files from people we don’t know.
+
+Instead, we should exchange information using fixed-length ASCII messages written in a statically verifiable subset of Latin, with images represented as mathematical combinations of line segments, arcs, and other timeless shapes described by dead philosophers who believed that minotaurs were real but incapable of escaping mazes.
+
+That is the kind of clear thinking that will help us defeat the space Egyptians that emerge from the StarGates. Or whatever.
+
+I’m an American and I don’t really understand history, but I strongly believe that Greeks spoke Latin to defeat intergalactic Egyptians.
+
+#TeachTheControversy!
+
+Anyways, my point is that browsers are too complex to be trusted.
+
+Unfortunately, youth is always wasted on the young, and the current generation of software developers is convinced that browsers need more features, not fewer.
+
+So, we are encouraged to celebrate the fact that browsers turn our computers into little Star Wars cantinas where everyone is welcome and you can drink a blue drink if you want to drink a blue drink and if something bad happens, then maybe a Jedi will save you, and if not, HEY IT’S A STAR WARS CANTINA YESSSSS.
+
+Space cantinas are fun, but they’re just a fantasy; they’re just a series of outlandish details stitched together to amuse and entertain.
+
+You have to open your eyes and see that in the real, non-hyperbolic world that you actually inhabit, your browser will frequently stop playing a video and then display flashing epilepsy pixels while making the sound that TVs make in Japanese horror movies before a pasty salamander child steps out of the screen and voids your warranty. That’s a thing which could actually happen, and we should wash it all away.
+
+Whenever I go to a conference and I discover that there will be
+a presentation about Byzantine fault tolerance, I always feel
+an immediate, unshakable sense of sadness, kind of like when
+you realize that bad things can happen to good people, or that Keanu Reeves will almost certainly make more money than you over arbitrary time scales.
+
+Watching a presentation on Byzantine fault tolerance is similar to watching a foreign film from a depressing nation that used to be controlled by the Soviets—the only difference is that computers and networks are constantly failing instead of young Kapruskin being unable to reunite with the girl he fell in love with while he was working in a coal mine beneath an orphanage that was atop a prison that was inside the abstract concept of World War II. 
+
+“How can you make a reliable computer service?” the presenter will ask in an innocent voice before continuing,
+
+“It may be difficult if you can’t trust anything and the entire concept of happiness is a lie designed by unseen overlords of endless deceptive power.”
+
+Making distributed systems reliable is inherently impossible; we cling to Byzantine fault tolerance like Charlton Heston clings to his guns, hoping that a series of complex software protocols will somehow protect us from the oncoming storm of furious apes who have somehow learned how to wear pants and maliciously tamper with our network packets.
+
+The caption should really say, “One day, a computer
+wanted to issue a command to an online service. This simple
+dream resulted in the generation of 16 gajillion messages.”
+“These messages will do things that only Cthulu understands; we are at peace with his dreadful mysteries, and we hope that you feel the same way.”
+
+“Note that, with careful optimization, only 14 gajillion messages are necessary. This is still too many messages; however, if the system sends fewer than 14 gajillion messages, it will be vulnerable to accusations that it only handles reasonable failure cases, and not the demented ones that previous researchers spitefully introduced in earlier papers in a desperate attempt to distinguish themselves from even more prior (yet similarly demented) work.”
+
+“As always, we are nailed to a cross of our own construction.”
+
+In a paper about Byzantine fault tolerance, the related work section will frequently say, “Compare the protocol diagram of our system to that of the best prior work. Our protocol is clearly better.”
+
+Trying to determine which one of these hateful diagrams is better is like gazing at two unfathomable seaweed bundles that washed up on the beach and trying to determine which one is marginally less alienating.
+
+Listen, regardless of which Byzantine fault tolerance protocol you pick, Twitter will still have fewer than two nines of availability.
+
+As it turns out, Ted the Poorly Paid Datacenter Operator will not send 15 cryptographically signed messages before he accidentally spills coffee on the air conditioning unit and then overwrites your tape backups with bootleg recordings of Nickelback.
+
+Ted will just do these things and then go home, because that’s what Ted does.
+
+His extensive home collection of “Thundercats” cartoons will not watch itself. Ted is needed, and Ted will heed the call of duty.
+
+Every paper on Byzantine fault tolerance introduces a new kind of data consistency. This new type of consistency will have an ostensibly straightforward yet practically inscrutable name like “leap year triple-writer dirty-mirror asynchronous semi-consistency.”
+
+In Section 3.2 (“An Intuitive Overview”), the authors will provide some plainspoken, spiritually appealing arguments about why their system prevents triple-conflicted write hazards in the presence of malicious servers and unexpected outbreaks of the bubonic plague.
+
+“Intuitively, a malicious server cannot lie to a client because each message is an encrypted, nested, signed, mutually-attested log entry with pointers to other encrypted and nested (but not signed) log entries.”
+
+Interestingly, these kinds of intuitive arguments are not intuitive.
+
+A successful intuitive explanation must invoke experiences that I have in real life. I have never had a real-life experience that resembled a Byzantine fault tolerant protocol.
+
+JAMES: I announce my desire to go to lunch.
+
+JAMES: OH NO. LET ME TELL YOU AGAIN THAT I WANT TO GO TO LUNCH.
+
+In conclusion, I think that humanity should stop publishing papers about Byzantine fault tolerance.
+
+I do not blame my fellow researchers for trying to publish in this area, in the same limited sense that I do not blame crackheads for wanting to acquire and then consume cocaine.
+
+The desire to make systems more reliable is a powerful one; unfortunately, this addiction, if left unchecked, will inescapably lead to madness and/or tech reports that contain 167 pages of diagrams and proofs.
+
+Even if we break the will of the machines with formalism and cryptography, we will never be able to put Ted inside of an encrypted, nested log, and while the datacenter burns and we frantically call Ted’s pager, we will realize that Ted has already left for the cafeteria
+
+As a highly trained academic researcher, I spend a lot of time trying to advance the frontiers of human knowledge.
+
+However, as someone who was born in the South, I secretly believe that true progress is a fantasy, and that I need to prepare for the end times, and for the chickens coming home to roost, and fast zombies, and slow zombies, and the polite zombies who say “sir” and “ma’am” but then try to eat your brain to acquire your skills.
+
+When the revolution comes, I need to be prepared; thus, in the quiet moments, when I’m not producing incredible scientific breakthroughs, I think about what I’ll do when the weather forecast inevitably becomes RIVERS OF BLOOD ALL DAY EVERY DAY.
+
+The main thing that I ponder is who will be in my gang, because the likelihood of post-apocalyptic survival is directly related to the size and quality of your rag-tag group of associates.
+
+There are some obvious people who I’ll need to recruit: a locksmith (to open doors); a demolitions expert (for when the locksmith has run out of ideas); and a person who can procure, train, and then throw snakes at my enemies (because, in a world without hope, snake throwing is a reasonable way to resolve disputes).
+
+All of these people will play a role in my ultimate success as a dystopian warlord philosopher.
+
+However, the most important person in my gang will be a systems programmer.
+
+A person who can debug a device driver or a distributed system is a person who can be trusted in a Hobbesian nightmare of breathtaking scope; a systems programmer has seen the terrors of the world and understood the intrinsic horror of existence.
+
+The systems programmer has written drivers for buggy devices whose firmware was implemented by a drunken child or a sober goldfish.
+
+The systems programmer has traced a network problem across eight machines, three time zones, and a brief diversion into Amish country, where the problem was transmitted in the front left hoof of a mule named Deliverance.
+
+The systems programmer has read the kernel source, to better understand the deep ways of the universe, and the systems programmer has seen the comment in the scheduler that says “DOES THIS WORK LOL,” and the systems programmer has wept instead of LOLed, and the systems programmer has submitted a kernel patch to restore balance to The Force and fix the priority inversion that was causing MySQL to hang.
+
+A systems programmer will know what to do when society breaks down, because the systems programmer already lives in a world without law.
+
+
+Listen: I’m not saying that other kinds of computer people are useless.
+
+I believe (but cannot prove) that PHP developers have souls.
+
+I think it’s great that database people keep trying to improve select-from-where, even though the only queries that cannot be expressed using select-from-where are inappropriate limericks from “The Canterbury Tales.”
+
+In some way that I don’t yet understand, I’m glad that theorists are investigating the equivalence between five-dimensional Turing machines and Edward Scissorhands.
+
+In most situations, GUI designers should not be forced to fight each other with tridents and nets as I yell “THERE ARE NO MODAL DIALOGS IN SPARTA.”
+
+I am like the Statue of Liberty: I accept everyone, even the wretched and the huddled and people who enjoy Haskell.
+
+But when things get tough, I need mission-critical people; I need a person who can wear night-vision goggles and descend from a helicopter on ropes and do classified things to protect my freedom while country music plays in the background.
+
+I can realistically give a kernel hacker a nickname like “Diamondback” or “Zeus Hammer.”
+
+In contrast, no one has ever said, “These semi-transparent icons are really semi-transparent! IS THIS THE WORK OF ZEUS HAMMER?”
+
+I picked that last example at random.
+
+You must believe me when I say that I have the utmost respect for HCI people.
+
+However, when HCI people debug their code, it’s like an art show or a meeting of the United Nations. There are tea breaks and witticisms exchanged in French; wearing a non-functional scarf is optional, but encouraged.
+
+When HCI code doesn’t work, the problem can be resolved using grand theories that relate form and perception to your deeply personal feelings about ovals.
+
+There will be rich debates about the socioeconomic implications of Helvetica Light, and at some point, you will have to decide whether serifs are daring statements of modernity, or tools of hegemonic oppression that implicitly support feudalism and illiteracy.
+
+Is pinching-and-dragging less elegant than circling-and-lightly-caressing?
+
+These urgent mysteries will not solve themselves.
+
+And yet, after a long day of debugging HCI code, there is always hope, and there is no true anger; even if you fear that your drop-down list should be a radio button, the drop-down list will suffice until tomorrow, when the sun will rise, glorious and vibrant, and inspire you to combine scroll bars and left-clicking in poignant ways that you will commemorate in a sonnet when you return from your local farmer’s market.
+
+This is not the world of the systems hacker.
+
+When you debug a distributed system or an OS kernel, you do it Texas-style.
+
+You gather some mean, stoic people, people who have seen things die, and you get some primitive tools, like a compass and a rucksack and a stick that’s pointed on one end, and you walk into the wilderness and you look for trouble, possibly while using chewing tobacco.
+
+As a systems hacker, you must be prepared to do savage things, unspeakable things, to kill runaway threads with your bare hands, to write directly to network ports using telnet and an old copy of an RFC that you found in the Vatican.
+
+When you debug systems code, there are no high-level debates about font choices and the best kind of turquoise, because this is the Old Testament, an angry and monochromatic world, and it doesn’t matter whether your Arial is Bold or Condensed when people are covered in boils and pestilence and Egyptian pharaoh oppression.
+
+HCI people discover bugs by receiving a concerned email from their therapist.
+
+Systems people discover bugs by waking up and discovering that their first-born children are missing and “ETIMEDOUT ” has been written in blood on the wall.
+
+What is despair? I have known it—hear my song.
+
+Despair is when you’re debugging a kernel driver and you look at a memory dump and you see that a pointer has a value of 7.
+
+THERE IS NO HARDWARE ARCHITECTURE THAT IS ALIGNED ON 7.
+
+Furthermore, 7 IS TOO SMALL AND ONLY EVIL CODE WOULD TRY TO ACCESS SMALL NUMBER MEMORY.
+
+Misaligned, small-number memory accesses have stolen decades from my life.
+
+The only things worse than misaligned, small-number memory accesses are accesses with aligned buffer pointers, but impossibly large buffer lengths.
+
+Nothing ruins a Friday at 5 P.M. faster than taking one last pass through the log file and discovering a word-aligned buffer address, but a buffer length of NUMBER OF ELECTRONS IN THE UNIVERSE.
+
+This is a sorrow that lingers, because a 2^893 byte read is the only thing that both Republicans and Democrats agree is wrong.
+
+It’s like, maybe Medicare is a good idea, maybe not, but there’s no way to justify reading everything that ever existed a jillion times into a mega-jillion sized array.
+
+This constant war on happiness is what non-systems people do not understand about the systems world.
+
+I mean, when a machine learning algorithm mistakenly identifies a cat as an elephant, this is actually hilarious.
+
+You can print a picture of a cat wearing an elephant costume and add an ironic caption that will entertain people who have middling intellects, and you can hand out copies of the photo at work and rejoice in the fact that everything is still fundamentally okay.
+
+There is nothing funny to print when you have a misaligned memory access, because your machine is dead and there are no printers in the spirit world.
+
+An impossibly large buffer error is even worse, because these errors often linger in the background, quietly overwriting your state with evil; if a misaligned memory access is like a criminal burning down your house in a fail-stop manner, an impossibly large buffer error is like a criminal who breaks into your house, sprinkles sand atop random bedsheets and toothbrushes, and then waits for you to slowly discover that your world has been tainted by madness
+
+Indeed, the common discovery mode for an impossibly large buffer error is that your program seems to be working fine, and then it tries to display a string that should say “Hello world,” but instead it prints “#a[5]:3!” or another syntactically correct Perl script, and you’re like WHAT THE HOW THE, and then you realize that your prodigal memory accesses have been stomping around the heap like the Incredible Hulk when asked to write an essay entitled “Smashing Considered Harmful.”
+
+You might ask, “Why would someone write code in a grotesque language that exposes raw memory addresses? Why not use a modern language with garbage collection and functional programming and free massages after lunch?”
+
+Here’s the answer: Pointers are real. They’re what the hardware understands. Somebody has to deal with them.
+
+You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis.
+
+Denying the existence of pointers is like living in ancient Greece and denying the existence of Krackens and then being confused about why none of your ships ever make it to Morocco, or Ur-Morocco, or whatever Morocco was called back then.
+
+Pointers are like Krackens—real, living things that must be dealt with so that polite society can exist.
+
+Make no mistake, I don’t want to write systems software in a language like C++.
+
+Similar to the Necronomicon, a C++ source code file is a wicked, obscure document that’s filled with cryptic incantations and forbidden knowledge.
+
+When it’s 3 A.M., and you’ve been debugging for 12 hours, and you encounter a virtual static friend protected volatile templated function pointer, you want to go into hibernation and awake as a werewolf and then find the people who wrote the C++ standard and bring ruin to the things that they love.
+
+The C++ STL, with its dyslexia-inducing syntax blizzard of colons and angle brackets, guarantees that if you try to declare any reasonable data structure, your first seven attempts will result in compiler errors of Wagnerian fierceness:
+
+Syntax error: unmatched thing in thing from std::nonstd::_ _map<_Cyrillic, _$$$dollars>const basic_string< epic_mystery,mongoose_traits &lt; char>, _ _default_alloc_<casual_Fridays = maybe>>
+
+One time I tried to create a list<map<int>>, and my syntax errors caused the dead to walk among the living.
+
+Such things are clearly unfortunate.
+
+Thus, I fully support high-level languages in which pointers are hidden and types are strong and the declaration of data structures does not require you to solve a syntactical puzzle generated by a malevolent extraterrestrial species.
+
+That being said, if you find yourself drinking a martini and writing programs in garbage-collected, object-oriented Esperanto, be aware that the only reason that the Esperanto runtime works is because there are systems people who have exchanged any hope of losing their virginity for the exciting opportunity to think about hex numbers and their relationships with the operating system, the hardware, and ancient blood rituals that Bjarne Stroustrup performed at Stonehenge.
+
+Perhaps the worst thing about being a systems person is that other, non-systems people think that they understand the daily tragedies that compose your life.
+
+For example, a few weeks ago, I was debugging a new network file system that my research group created.
+
+The bug was inside a kernel-mode component, so my machines were crashing in spectacular and vindictive ways.
+
+After a few days of manually rebooting servers, I had transformed into a shambling, broken man, kind of like a computer scientist version of Saddam Hussein when he was pulled from his bunker, all scraggly beard and dead eyes and florid, nonsensical ramblings about semi-imagined enemies.
+
+As I paced the hallways, muttering Nixonian rants about my code, one of my colleagues from the HCI group asked me what my problem was.
+
+I described the bug, which involved concurrent threads and corrupted state and asynchronous message delivery across multiple machines, and my coworker said, “Yeah, that sounds bad. Have you checked the log files for errors?”
+
+I said, “Indeed, I would do that if I hadn’t broken every component that a logging system needs to log data. I have a network file system, and I have broken the network, and I have broken the file system, and my machines crash when I make eye contact with them.” 
+
+“I HAVE NO TOOLS BECAUSE I’VE DESTROYED MY TOOLS WITH MY TOOLS.”
+
+“My only logging option is to hire monks to transcribe the subjective experience of watching my machines die as I weep tears of blood.”
+
+My coworker, in an earnest attempt to sympathize, recounted one of his personal debugging stories, a story that essentially involved an addition operation that had been mistakenly replaced with a multiplication operation.
+
+I listened to this story, and I said, “Look, I get it. Multiplication is not addition. This has been known for years. However, multiplication and addition are at least related. Multiplication is like addition, but with more addition. Multiplication is a grown-up pterodactyl, and addition is a baby pterodactyl.”
+
+“Thus, in your debugging story, your code is wayward, but it basically has the right idea.”
+
+“In contrast, there is no family-friendly GRE analogy that relates what my code should do, and what it is actually doing.”
+
+“I had the modest goal of translating a file read into a network operation, and now my machines have tuberculosis and orifice containment
+issues.”
+
+“Do you see the difference between our lives? When you asked a girl to the prom, you discovered that her father was a cop.”
+
+“When I asked a girl to the prom, I DISCOVERED THAT HER FATHER WAS STALIN.”
+
+In conclusion, I’m not saying that everyone should be a systems hacker. GUIs are useful. Spell-checkers are useful.
+
+I’m glad that people are working on new kinds of bouncing icons because they believe that humanity has solved cancer and homelessness and now lives in a consequence-free world of immersive sprites.
+
+That's exciting, and I wish I could join those people in the 27th century.
+
+But I live here, and I live now, and in my neighborhood, people are dying in the streets.
+
+It's like, French is a great idea, but nobody is going to invent French if they're constantly being attacked by bears.
+
+Do you see? SYSTEMS HACKERS SOLVE THE BEAR MENACE.
+
+Only through the constant vigilance of my people do you get the freedom o think about croissants and subtle puns involving the true father of Louis XIV.
+
+So, if you see me wandering the halls, trying to explain synchronization bugs to confused monks, rest assured that every day, in every way, it gets a little better. For you, not me.
+
+I'll always be furious at the number 7, but such is the hero's journey.
+
+According to my dad, flying in airplanes used to be fun.
+
+You could smoke on the plane, and smoking was actually good for you.
+
+Everybody was attractive, and there were no fees for anything, and there
+was so much legroom that you could orient your body parts in arbitrary and profane directions without bothering anyone, and you could eat caviar and manatee steak as you were showered with piles of money that were personally distributed by JFK and The Beach Boys.
+
+Times were good, assuming that you were a white man in the advertising business, WHICH MY FATHER WAS NOT SO PERHAPS I SHOULD ASK HIM SOME FOLLOW-UP QUESTIONS BUT I DIGRESS.
+
+The point is that flying in airplanes used to be fun, but now it resembles a dystopian bin-packing problem in which humans, carry-on luggage, and five dollar peanut bags compete for real estate while crying children materialize from the ether and make obscure demands in unintelligible, Wookie-like languages while you fantasize about who you won’t be helping when the oxygen masks descend.
+
+I think that it used to be fun to be a hardware architect. Anything that you invented would be amazing, and the laws of physics were actively trying to help you succeed.
+
+Your friend would say, “I wish that we could predict branches more accurately,” and you’d think, “maybe we can leverage three bits of state per branch to implement a simple saturating counter,” and you’d laugh and declare that such a stupid scheme would never work, but then you’d test it and it would be 94% accurate, and the branches would wake up the next morning and read their newspapers and the headlines would say OUR WORLD HAS BEEN SET ON FIRE.
+
+You’d give your buddy a high-five and go celebrate at the bar, and then you’d think, “I wonder if we can make branch predictors even more accurate,” and the next day you’d start XOR’ing the branch’s PC address with a shift register containing the branch’s recent branching history, because in those days, you could XOR anything with anything and get something useful, and you test the new branch predictor, and now you’re up to 96% accuracy, and the branches call you on the phone and say OK, WE GET IT, YOU DO NOT LIKE BRANCHES, but the phone call goes to your voicemail because you’re too busy driving the speed boats and wearing the monocles that you purchased after your promotion at work.
+
+You go to work hung-over, and you realize that, during a drunken conference call, you told your boss that your processor has 32 registers when it only has 8, but then you realize THAT YOU CAN TOTALLY LIE ABOUT THE NUMBER OF PHYSICAL REGISTERS, and you invent a crazy hardware mapping scheme from virtual registers to physical ones, and at this point, you start seducing the spouses of the compiler team, because it’s pretty clear that compilers are a thing of the past, and the next generation of processors will run English-level pseudocode directly.
+
+Of course, pride precedes the fall, and at some point, you realize that to implement aggressive out-of-order execution, you need to fit more transistors into the same die size, but then a material science guy pops out of a birthday ake and says YEAH WE CAN DO THAT, and by now, you’re
+touring with Aerosmith and throwing Matisse paintings from hotel room windows, because when you order two Matisse paintings from room service and you get three, that equation is going to be balanced.
+
+It all goes so well, and the party keeps getting better. When you retire in 2003, your face is wrinkled from all of the smiles, and even though you’ve been sued by several pedestrians who suddenly acquired rare paintings as hats, you go out on top, the master of your domain.
+
+You look at your son John, who just joined Intel, and you rest well at night, knowing that he can look forward to a pliant universe and an easy life.
+
+Unfortunately for John, the branches made a pact with Satan and quantum mechanics during a midnight screening of “Weekend at Bernie’s II.”
+
+In exchange for their last remaining bits of entropy, the branches cast evil spells on future generations of processors.
+
+Those evil spells had names like “scaling-induced voltage leaks” and “increasing levels of waste heat” and “Pauly Shore, who is only loosely connected to computer architecture, but who will continue to produce a new movie every three years until he sublimates into an empty bag of Cheetos and a pair of those running shoes that have individual toes and that make you look like you received a foot transplant from a Hobbit, Sasquatch, or an infertile Hobbit/Sasquatch hybrid.”
+
+Once again, I digress. The point is that the branches, those vanquished foes from long ago, would have the last laugh.
+
+When John went to work in 2003, he had an indomitable spirit and a love for danger, reminding people of a less attractive Ernest Hemingway or an equivalently attractive Winston Churchill.
+
+As a child in 1977, John had met Gordon Moore; Gordon had pulled a quarter from behind John’s ear and then proclaimed that he would pull twice as many quarters from John’s ear every 18 months.
+
+Moore, of course, was an incorrigible liar and tormentor of youths, and he never pulled another quarter from John’s ear again, having immediately fled the scene while yelling that Hong Kong will always be a British territory, and nobody will ever pay $8 for a Mocha Frappuccino, and a variety of other things that seemed like universal laws to people at the time, but were actually just arbitrary nouns and adjectives that Moore had scrawled on a napkin earlier that morning.
+
+Regardless, John was changed forever, and when he grew up and became a hardware architect, he poured all of his genius into making transistors smaller and more efficient.
+
+For a while, John’s efforts were rewarded with ever-faster CPUs, but at a certain point, the transistors became so small that they started to misbehave.
+
+They randomly switched states; they leaked voltage; they fell prey to the seductive whims of cosmic rays that, unlike the cosmic rays in comic books, did not turn you into a superhero, but instead made your transistors unreliable and shiftless, like a surly teenager who is told to clean his room and who will occasionally just spray his bed with Lysol and declare victory.
+
+As the transistors became increasingly unpredictable, the foundations of John’s world began to crumble.
+
+So, John did what any reasonable person would do: he cloaked himself in a wall of denial and acted like nothing had happened.
+
+“Making processors faster is increasingly difficult,” John thought, “but maybe people won’t notice if I give them more processors.”
+
+This, of course, was a variant of the notorious Zubotov Gambit, named after the Soviet-era car manufacturer who abandoned its attempts to make its cars not explode, and instead offered customers two Zubotovs for the price of one, under the assumption that having two occasionally combustible items will distract you from the fact that both items are still occasionally combustible. John quietly began to harness a similar strategy,
+telling his marketing team to deemphasize their processors’ speed, and emphasize their level of parallelism.
+
+At first, John’s processors flew off the shelves. Indeed, who wouldn’t want an octavo-core machine with 73 virtual hyper-threads per physical processor?
+
+Alan Greenspan’s loose core policy and weak parallelism regulation were declared a resounding success, and John sipped on champagne as he watched the money roll in.
+
+However, a bubble is born so that a bubble can pop, and this one was no different.
+
+John’s massive parallelism strategy assumed that lay people use their computers to simulate hurricanes, decode monkey genomes, and otherwise multiply vast, unfathomably dimensioned matrices in a desperate attempt to unlock eigenvectors whose desolate grandeur could only be imagined by Edgar Allen Poe.
+
+Of course, lay people do not actually spend their time trying to invert massive hash values while rendering nine copies of the Avatar planet in 1080p.
+
+Lay people use their computers for precisely ten things, none of which involve massive computational parallelism, and seven of which involve procuring a vast menagerie of pornographic data and then curating that data using a variety of fairly obvious management techniques, like the creation of a folder called “Work Stuff,” which contains an inner folder called “More Work Stuff,” where “More Work Stuff” contains a series of ostensible documentaries that describe the economic interactions between people who don’t have enough money to pay for pizza and people who aren’t too bothered by that fact.
+
+Thus, when John said “imagine a world in which you’re constantly executing millions of parallel tasks,” it was equivalent to saying “imagine a world that you do not and will never live in.”
+
+Indeed, a world in which you’re constantly simulating nuclear explosions while rendering massive 3-D environments is a world that’s been taken over by members of a high school A.V. club.
+
+The members of a high school A.V. club lack the chops to establish a global dictatorship, if only because oing such a thing would require them to reduce their visits to Renaissance festivals, and those turkey legs need help to be consumed in the style of a 15th century Italian aristocrat.
+
+John was terrified by the collapse of the parallelism bubble, and he quickly discarded his plans for a 743-core processor that was dubbed The Hydra of Destiny and whose abstract Platonic ideal was briefly the third-best chess player in Gary, Indiana.
+
+Clutching a bottle of whiskey in one hand and a shotgun in the other, John scoured the research literature for ideas that might save his dreams of infinite scaling.
+
+He discovered several papers that described software-assisted hardware recovery.
+
+The basic idea was simple: if hardware suffers more transient failures as it gets smaller, why not allow software to detect erroneous computations and re-execute them?
+
+This idea seemed promising until John realized THAT IT WAS THE WORST IDEA EVER.
+
+Modern software barely works when the hardware is correct, so relying on software to correct hardware errors is like asking Godzilla to prevent Mega-Godzilla from terrorizing Japan.
+
+THIS DOES NOT LEAD TO RISING PROPERTY VALUES IN TOKYO.
+
+It’s better to stop scaling your transistors and avoid playing with monsters in the first place, instead of devising an elaborate series of monster checks-and-balances and then hoping that the monsters don’t do what monsters are always going to do because if they didn’t do those things, they’d be called dandelions or puppy hugs.
+
+At this point, John was living under a bridge and wearing a bird’s nest as a hat.
+
+Despite his tragic sartorial collaborations with the avian world, John still believed that somehow, some way, he could continue to make his transistors smaller.
+
+Perhaps the processor could run multiple copies of each program, comparing the results to detect errors?
+
+Perhaps a new video codec could tolerate persistently hateful levels of hardware error?
+
+All of these techniques could be implemented. However, John slowly realized that these solutions were just things that he could do, and inventing “a thing that you could do” is a low bar for human achievement.
+
+If I were walking past your house and I saw that it was on fire, I could try to put out the fire by finding a dingo and then teaching it how to speak Spanish. That’s certainly a thing that I could do.
+
+However, when you arrived at your erstwhile house and found a pile of heirloom ashes, me, and a dingo with a chewed-up Rosetta Stone box, you would be less than pleased, despite my protestations that negative scientific results are useful and I had just proven that Spanish-illiterate dingoes cannot extinguish fires using mind power.
+
+It was at this moment, when John had hit the bottom, that he discovered religion.
+
+John began to attend The Church of the Impending Power Catastrophe. He sat in the pew and he heard the cautionary tales, and he was afraid.
+
+John learned about the new hyper-threaded processor from AMD that ran so hot that it burned a hole to the center of the earth, yelled “I’ve come to rejoin my people!”, discovered that magma people are extremely bigoted against processor people, and then created the Processor Liberation Front to wage a decades-long, hilariously futile War to Burn the Intrinsically OK-With-Being-Burnt Magma People.
+
+John learned about the rumored Intel Septium chip, a chip whose prototype had been turned on exactly once, and which had leaked so much voltage that it had transformed into a young Linda Blair and demanded an exorcism before it embarked on a series of poor career moves that culminated in an inevitable spokesperson role for PETA.
+
+The future was bleak, and John knew that he had to fight it. So, John repented his addiction to scaling, and he rededicated his life to reducing the power consumption of CPUs.
+
+It was a hard path, and a lonely path, but John could find no other way. 
+Formerly the life of the party, John now resembled the scraggly, one-eyed wizard in a fantasy novel who constantly warns the protagonist about the variety of things that can lead to monocular bescragglement.
+
+At team meetings, whenever someone proposed a new hardware feature, John would yell “THE MAGMA PEOPLE ARE WAITING FOR OUR MISTAKES.”
+
+He would then throw a coffee cup at the speaker and say that adding new hardware features would require each processor to be connected to a dedicated coal plant in West Virginia.
+
+John’s coworkers eventually understood his wisdom, and their need to wear coffee-resistant indoor ponchos lessened with time.
+
+Every evening, after John left work, he went to the bus stop and distributed power literature to strangers, telling them to abandon transis-
+tor scaling and save their souls.
+
+Standing next to John, another man wore a sandwich board that said that the Federal Reserve was using fluorinated water to hide the fact that we never landed on the moon.
+
+The sandwich board required no transistors at all. It made John smile.
+
+When John comes home for the holidays, you’re glad that he’s back, but you miss the old twinkle in his eye.
+
+Your thoughts wander to your own glory days thirty years ago, when Aerosmith mistook young John for a large Xanax tablet and tried to trade him for a surface-to-air missile that could be used against anti-classic rock regimes.
+
+Oh, how you laughed! The subsequent visit by Child Protection Services was less amusing, but that was the way that hardware architects lived: working hard, partying hard, and occasionally waking up in Tijuana to discover that your left kidney is missing and your toddler has been shipped to a Columbian arms smuggler.
+
+It was crazy, but you wouldn’t change a thing. Your generation had lived so many dreams, and slain so many foes.
+
+Today, if a person uses a desktop or laptop, she is justifiably angry if she discovers that her machine is doing a non-trivial amount of work.
+
+If her hard disk is active for more than a second per hour, or if her CPU utilization goes above 4%, she either has a computer virus, or she made the disastrous decision to run a Java program.
+
+Either way, it’s not your fault: you brought the fire down from Olympus, and the mortals do with it what they will.
+
+But now, all the easy giants were dead, and John was left to fight the ghosts that Schrödinger had left behind.
+
+“John,” you say as you pour some eggnog, “did I ever tell you how I implemented an out-of-order pipeline with David Hasselhoff and Hulk Hogan’s moustache colorist?”
+
+You are suddenly aware that you left your poncho in the other room.
+
+Mobile computing researchers are a special kind of menace.
+
+They don’t smuggle rockets to Hezbollah, or clone baby seals and then make them work in sweatshops for pennies a day. That’s not the problem with mobile computing people.
+
+The problem with mobile computing people is that they have no shame.
+
+They write research papers with titles like “Crowdsourced Geolocation-based Energy Profiling for Mobile Devices,” as if the most urgent deficiency of smartphones is an insufficient composition of buzzwords.
+
+The real problem with mobile devices is that they are composed of Satan. 
+They crash all of the time, ignore our basic commands, and spend most of their time sullen, quiet, and confused, draining their batteries and converting the energy into waste heat and thwarted dreams.
+
+Smartphones and tablets have essentially become the new printers: things that do not work, and are not expected to work, and whose primary purpose is to inspire gothic conversations about the ultimate futility of the human condition.
+
+People buy mobile devices for the same reason that goldfish swim in their tiny bowls: it’s something to do while we wait for death.
+
+When researchers talk about mobile computers, they use visionary, exciting terms like “fast”, “scalable”, and “this solution will definitely work in practice.”
+
+When real people talk about mobile computers, they sound like they’re describing a scene from the Dust Bowl.
+
+It’s all ellipses and gentle, forlorn shaking of the head. “I tried to load the app...I don’t know what went wrong...I’M SO TIRED AND DUSTY AND BOWLED.”
+
+When I use a mobile browser to load a web page, I literally have no expectation that anything will ever happen.
+
+A successful page load is so unlikely, so unimaginable, that mobile browsers effectively exist outside of causality—the browser is completely divorced from all action verbs, and can only be associated with sad, falling-tone sentences like “I had to give up after twenty seconds.”
+
+The only reason that I use mobile browsers is that I hate myself and I want to be attritioned into unconsciousness by the desperate, spastic gasps of my browser as it struggles to download the 87 MB of Flash and JavaScript that are contained in any website made after the Civil War.
+
+Of course, some web pages are “mobile-enabled,” meaning that they only contain 63 MB of things that I don’t care about, instead of 87 MB of things I don’t care about.
+
+To discover whether a page has a “fast-loading” mobile version, you can try to load the regular version, and then see if you get stuck in a hurricane of HTTP redirects, redirects whose durations have been carefully selected to make the load time of the mobile page completely equivalent to the load time of the standard, redirect-free version.
+
+If the Buddha intervenes and somehow coerces the mobile version of the page to load, you will be rewarded with a “phone-optimized” page that contains 1.5 visual elements (note that the most boring thing in the world has 3 visual elements).
+
+The vast majority of your mobile page will be advertisements for a newly discovered herb from South America that causes amazing weight loss.
+
+The amazingness of the weightloss will be demonstrated by a three-frame animation that depicts a fat person wearing a wife beater, a marginally less fat person wearing a wife beater, and a skinny person who, for inexplicable reasons, is still wearing a wife beater, even though he is now free to date supermodels, wear polar bear jackets, and do all of the other exciting things that skinny people presumably do when they’re pumped full of South American mystery herbs.
+
+Importantly, the advertisements on your phone will position themselves in strategically disrespectful places, carefully obscuring the 0.25 visual elements that you actually want to see.
+
+When you scroll the page, the ads will engage in a frantic dance to reposition themselves in a maximally infuriating way.
+
+You will eventually give up and close the browser, having spent 45 minutes to unsuccessfully load a web page about dogs that look like cats that look like other, different cats.
+
+When touchscreens work, they’re amazing; however, touchscreens are the only commodities which depreciate faster than automobiles.
+
+As soon as you unwrap your phone or tablet, the touchscreen starts to die.
+
+Make no mistake, your initial touchscreen romance will be lovely and
+full.
+
+Hark!—as you effortlessly move neon blobs of information like a character from “Tron”!
+
+Behold!—as you zoom into and out of a dynamically resizable thing that contains additional-but-only-partially-resizable things!
+
+Such experiences represent the springtime of your love, and the initial weeks of your touchscreen romance will be like a young Led Zeppelin, intense and grandiose and punctuated by extended guitar solos.
+
+However, at some point, you will drop your phone or your tablet, and this will mark the beginning of the end.
+
+When you drop a touchscreen, you initiate a complex series of degenerative processes that corrupt the touchscreen and turn its will against you like a pet lizard who has learned that dinosaurs were real BUT IT’S JUST A STATE OF MIND.
+
+Note that, when I say that you will “drop” your touchscreen, I do not mean “drop” in the layperson sense of “to release from a non-trivial height onto a hard surface.” I mean “drop” in the sense of “to place your
+touchscreen on any surface that isn’t composed of angel feathers
+and the dreams of earnest schoolchildren.”
+
+Phones and tablets apparently require Planck-scale mechanical alignments, such that merely looking at the touchscreen introduces fundamental, quantum dynamical changes in the touchscreen’s dilithium crystals.
+
+Thus, if you place your touchscreen on anything, ever, you have made a severe and irreversible life mistake.
+
+Slowly but surely, your touchscreen will develop a series of tics and glitches, behaviors that you will initially explain away as “technology is quirky,” but that you will quickly begin to describe using extraordinary and significant profanities that are normally employed by Marines and people who work with radioactive waste.
+
+On your touchscreen, your swipes will become pinches, and your pinches will become scrolls, and each one of your scrolls will become a complex thing never before seen on this earth, a leviathan meta-touch event of such breadth and complexity that your phone can only respond like Carrie White at the prom.
+
+So, your phone just starts doing stuff, all the stuff that it knows how to do, and it’s just going nuts, and your apps are closing and opening and talking to the cloud and configuring themselves in unnatural ways, and your phone starts vibrating and rumbling with its little rumble pack, and it will gently sing like a tiny hummingbird of hate, and you’ll look at the touchscreen, and you’ll see that things are happening, my god, there are so many happenings, and you’ll try to flip the phone over and take out the battery, because now you just want to kill it and move to Kansas and start over, but the back panel of the phone is attached by a molecule-sized screw that requires a special type of screwdriver that only Merlin possesses, and Merlin isn’t nearby, and your phone is still rumbling, and by this point, you can understand the rumble, it’s a twin language that you and your phone invented, and the phone is rumbling, and it’s saying that it’s far from done, that it has so much more that it wants to do, that there are so many of your frenemies that it wants to “accidentally” call and then leave you to deal with the social ramifications, and your phone, it buzzes, and you think that you see it smiling, and you begin to realize that land-line telephones were actually a pretty good idea.
+
+Interestingly, a mobile phone should be able to make phone calls while it moves through time and space.
+
+I derived this provocative concept from basic notions of adjectives and nouns.
+
+For example, if I am a gregarious jellyfish, I praise my friends for their wardrobe choices (gregarious) while I repeatedly stab them with my poisonous tentacles (jellyfish).
+
+I am a gregarious jellyfish. That is my way. 
+
+I may be misunderstood by polite society, but as a gregarious jellyfish, my dramatic tensions respect the standard semantics for adjectives and nouns.
+
+Similarly, a mobile phone should be able to PHONE PEOPLE while being MOBILE.
+
+However, I have never had a successful conversation on a mobile phone.
+
+Whenever I talk to people on a mobile phone, they always sound distant and/or creepy, like they’re trapped in an echo-filled cave, or a windy cave, or a cave that makes people sound like pedophiles.
+
+These are not good caves to be in, to the extent that it’s ever good to
+be in a cave.
+
+Nobody takes their honeymoon at Persistently Distracting Echo Cave.
+
+Nobody has their Bat Mitzvah at Windy Cave’s 80% Packet Loss Ballroom.
+
+You may, in fact, find online travel deals for Pedo-Cave, but these are all traps that have been set by “To Catch A Predator.”
+
+My point is that mobile phones are not phones. They are just pocket-sized things that are more expensive than the vast majority of other pocket-sized things.
+
+This is why, when you try to talk to someone on a mobile phone, you are thrown into a frantic world of on-the-fly lossy decompression, like Nicholas Cage in that movie about Navajo code talkers (the only movie that managed to simultaneously offend Native Americans, cryptographers, and people who are neither Native Americans nor cryptographically inclined).
+
+In the minds of mobile computing researchers, humanity is nearing a final, glorious stage of Darwinian evolution, in which mankind and smartphones emerge from a shared chrysalis and transform into shapeless, omnipotent joy clouds of excellence and victory, unconstrained by conventional morality or finite battery life.
+
+In reality, you could go to the Middle Ages, find a random person, and take whatever is in his left pocket, and you would have something that is more useful than a modern mobile device (although it may be covered with Bubonic plague or antiquated notions about the stoning of random villagers with respect to the actual size of the witch population).
+
+When you purchase a mobile device, you are basically saying, “I endorse the operational inefficiency of the modern bourgeoisie lifestyle, even though I could find a rock and tie a coat hanger around it and have a better chance of having a phone conversation that doesn’t sound like two monsters arguing about German poetry.”
+
+So, I encourage you to throw your tablets and your mobile phones into a fire, and then hide from the angry monsters who no longer have a way to discuss the work of Klaus von Beckenbauer, the acclaimed poet who wrote “The Unsurprising Laments of the Gregarious Jellyfish,” “Seriously, Todd, You’ve Got To Stop Stabbing People If You Want To Get Married,” and “Yes, Jellyfish Have Names and My Name is Todd.”
+
+Sometimes, when I check my work email, I’ll find a message that says “Talk Announcement: Vertex-based Elliptic Cryptography on N-way Bojangle Spaces.”
+
+I’ll look at the abstract for the talk, and it will say something like this: “It is well-known that five-way secret sharing has been illegal since the Protestant Reformation [Luther1517].
+
+However, using recent advances in polynomial-time Bojangle projections, we demonstrate how a set of peers who are frenemies can exchange up to five snide remarks that are robust to Bojangle-chosen plaintext attacks.” 
+I feel like these emails start in the middle of a tragic but unlikely-to-be-interesting opera.
+
+Why, exactly, have we been thrust into an elliptical world?
+
+Who, exactly, is Bojangle, and why do we care about the text that he chooses?
+
+If we care about him because he has abducted our families, can I at least exchange messages with those family members, and if so, do those messages have to be snide?
+
+Researchers who work on problems like these remind me of my friends who train for triathlons.
+
+When I encounter such a friend, I say, “In the normal universe, when are you ever going to be chased by someone into a lake, and then onto a bike, and then onto a road where you can’t drive a car, but you can run in a wetsuit?
+
+Will that ever happen? If so, instead of training for such an event, perhaps a better activity is to discover why a madman is forcing people to swim, then bike, and then run.”
+
+My friend will generally reply, “Triathlons are good exercise,” and I’ll say, “That’s true, assuming that you’ve made a series of bad life decisions that result in you being hunted by an amphibious Ronald McDonald.”
+
+My friend will say, “How do you know that it’s Ronald McDonald who’s chasing me?”, and I’ll say “OPEN YOUR EYES WHO ELSE COULD IT BE?”, and then my friend will stop talking to me about triathlons, and I will be okay with this outcome.
+
+In general, I think that security researchers have a problem with public relations.
+
+Security people are like smarmy teenagers who listen to goth music: they are full of morbid and detailed monologues about the pervasive catastrophes that surround us, but they are much less interested in the practical topic of what people should do before we’re inevitably killed by ravens or a shortage of black mascara.
+
+It’s like, websites are amazing BUT DON’T CLICK ON THAT LINK, and your phone can run all of these amazing apps BUT MANY OF YOUR APPS ARE EVIL, and if you order a Russian bride on Craigslist YOU MAY GET A CONFUSED FILIPINO MAN WHO DOES NOT LIKE BEING SHIPPED IN A BOX.
+
+It’s not clear what else there is to do with computers besides click on things, run applications, and fill spiritual voids using destitute mail-ordered foreigners.
+
+If the security people are correct, then the only provably safe activity is to stare at a horseshoe whose integrity has been verified by a quorum of Rivest, Shamir, and Adleman.
+
+Somehow, I am not excited to live in the manner of a Pilgrim who magically has access to 3-choose-2 {Rivest, Shamir, Adleman}, mainly because, if I were a bored Pilgrim who possessed a kidnapping time machine, I would kidnap Samuel L. Jackson or Robocop, not mathematical wizards from the future who would taunt me with their knowledge of prime numbers and how “Breaking Bad” ends.
+
+The only thing that I’ve ever wanted for Christmas is an automated way to generate strong yet memorable passwords.
+
+Unfortunately, large swaths of the security community are fixated on avant garde horrors such as the fact that, during solar eclipses, pacemakers can be remotely controlled with a garage door opener and a Pringles can.
+
+It’s definitely unfortunate that Pringles cans are the gateway to an obscure set of Sith-like powers that can be used against the 0.002% of the population that has both a pacemaker and bitter enemies in the electronics hobbyist community.
+
+However, if someone is motivated enough to kill you by focusing electromagnetic energy through a Pringles can, you probably did something to
+deserve that.
+
+I am not saying that I want you dead, but I am saying that you may have to die so that researchers who study per-photon HMACs for pacemaker transmitters can instead work on making it easier for people to generate good passwords.
+
+“But James,” you protest, “there are many best practices for choosing passwords!”
+
+Yes, I am aware of the “use a vivid image” technique, and if I lived in a sensory deprivation tank and I had never used the Internet, I could easily remember a password phrase like “Gigantic Martian Insect Party.”
+
+Unfortunately, I have used the Internet, and this means that I have seen, heard, and occasionally paid money for every thing that could ever be
+imagined.
+
+I have seen a video called “Gigantic Martian Insect Party,” and I have seen another video called “Gigantic Martian Insect Party 2: Don’t Tell Mom,” and I hated both videos, but this did not stop me from directing the sequel “Gigantic Martian Insect Party Into Darkness.”
+
+Thus, it is extremely difficult for me to generate a memorable image that can distinguish itself from the seething ocean of absurdities that I store as a result of consuming 31 hours of media in each 24-hour period.
+
+So, coming up with a memorable image is difficult, and to make things worse, the security people tell me that I need different passwords for different web sites.
+
+Now I’m expected to remember both “Gigantic Martian Insect Party” and “Structurally Unsound Yeti Tote-bag,” and I have to somehow recall which phrase is associated with my banking web site, and which one is associated with some other site that doesn’t involve extraterrestrial insects or Yeti accoutrements.
+
+This is uncivilized and I demand more from life.
+
+Thus, when security researchers tell me that they’re not working on passwords, it’s like physicists from World War II telling me that they’re not working on radar or nuclear bombs, but instead they’re unravelling the mystery of how bumblebees fly.
+
+It’s like, you are so close, and yet so far. You almost get it, but that’s worse than not getting it at all.
+
+My point is that security people need to get their priorities straight. 
+
+The “threat model” section of a security paper resembles the script for a telenovela that was written by a paranoid schizophrenic: there are elaborate narratives and grand conspiracy theories, and there are heroes and villains with fantastic (yet oddly constrained) powers that necessitate a grinding battle of emotional and technical attrition.
+
+In the real world, threat models are much simpler.
+
+Basically, you’re either dealing with Mossad or not-Mossad.
+
+If your adversary is not-Mossad, then you’ll probably be fine if you pick a good password and don’t respond to emails from ChEaPestPAiNPi11s@
+virus-basket.biz.ru.
+
+If your adversary is the Mossad, YOU’RE GONNA DIE AND THERE’S NOTHING THAT YOU CAN DO ABOUT IT.
+
+The Mossad is not intimidated by the fact that you employ https://.
+
+If the Mossad wants your data, they’re going to use a drone to replace your cellphone with a piece of uranium that’s shaped like a cellphone, and when you die of tumors filled with tumors, they’re going to hold a press conference and say “It wasn’t us” as they wear t-shirts that say “IT WAS DEFINITELY US,” and then they’re going to buy all of your stuff at your estate sale so that they can directly look at the photos of your vacation instead of reading your insipid emails about them.
+
+In summary, https:// and two dollars will get you a bus ticket to nowhere. 
+
+Also, SANTA CLAUS ISN’T REAL.
+
+When it rains, it pours.
+
+The Mossad/not-Mossad duality is just one of the truths that security researchers try to hide from you.
+
+The security community employs a variety of misdirections and soothing words to obscure the ultimate nature of reality; in this regard, they resemble used car salesmen and Girl Scouts (whose “cookie sales” are merely shell companies for the Yakuza).
+
+When you read a security paper, there’s often a sentence near the beginning that says “assume that a public key cryptosystem exists.”
+
+The authors intend for you to read this sentence in a breezy, carefree way, as if establishing a scalable key infrastructure is a weekend project, akin to organizing a walk-in closet or taming a chinchilla.
+
+Given such a public key infrastructure, the authors propose all kinds of entertaining, Ferris Bueller-like things that you can do, like taking hashes of keys, and arranging keys into fanciful tree-like structures, and determining which users are bad so that their keys can be destroyed, or revoked, or mixed with concrete and rendered inert.
+
+To better describe the Mendelian genetics of keys, the authors will define kinky, unnatural operators for the keys, operators that are described as unholy by the Book of Leviticus and the state of Alabama, and whose definitions require you to parse opaque, subscript-based sentences like “Let K_R ₩ K_T represent the semi-Kasparov foo-dongle operation in a bipartite XY abc space, such that the modulus is spilt but a new key is not made.”
+
+This Caligula-style key party sounds like great fun, but constructing a public key infrastructure is incredibly difficult in practice.
+
+When someone says “assume that a public key cryptosystem exists,” this is roughly equivalent to saying “assume that you could clone dinosaurs, and that you could fill a park with these dinosaurs, and that you could get a ticket to this ‘Jurassic Park,’ and that you could stroll throughout this park without getting eaten, clawed, or otherwise quantum entangled with a macroscopic dinosaur particle.”
+
+With public key cryptography, there’s a horrible, fundamental challenge of finding somebody, anybody, to establish and maintain the infrastructure.
+
+For example, you could enlist a well-known technology company to do it, but this would offend the refined aesthetics of the vaguely Marxist but comfortably bourgeoisie hacker community who wants everything to be decentralized and who non-ironically believes that Tor is used for things
+besides drug deals and kidnapping plots.
+
+Alternatively, the public key infrastructure could use a decentralized “web-of-trust” model; in this architecture, individuals make their
+own keys and certify the keys of trusted associates, creating
+chains of attestation.
+
+“Chains of Attestation” is a great name for a heavy metal band, but it is less practical in the real, non-Ozzy-Ozbourne-based world, since I don’t just need a chain of attestation between me and some unknown, filthy stranger —­I also need a chain of attestation for each link in that chain.
+
+This recursive attestation eventually leads to fractals and H.P. Lovecraft-style madness.
+
+Web-of-trust cryptosystems also result in the generation of emails with incredibly short bodies (e.g., “R U gonna be at the gym 2nite?!?!?!?”) and multi-kilobyte PGP key attachments, leading to a packet framing overhead of 98.5%.
+
+PGP enthusiasts are like your friend with the ethno-literature degree whose multi-paragraph email signature has fourteen Buddhist quotes about wisdom and mankind’s relationship to trees.
+
+It’s like, I GET IT. You care deeply about the things that you care about.
+
+Please leave me alone so that I can ponder the inevitability of death.
+
+Even worse than the PGP acolytes are the folks who claim that we can use online social networks to bootstrap a key infrastructure.
+
+Sadly, the people in an online social network are the same confused, ill-equipped blunderhats who inhabit the physical world.
+
+Thus, social network people are the same people who install desktop search toolbars, and who try to click on the monkey to win an iPad, and who are willing to at least entertain the notion that buying a fortune-telling app for any more money than “no money” is a good idea.
+
+These are not the best people in the history of people, yet somehow, I am supposed to stitch these clowns into a rich cryptographic tapestry that supports key revocation and verifiable audit trails.
+
+One time, I was on a plane, and a man asked me why his laptop wasn’t working, and I tried to hit the power button, and I noticed that the power button was sticky, and I said, hey, why is the power button sticky, and he said, oh, IT’S BECAUSE I SPILLED AN ENTIRE SODA ONTO IT BUT THAT’S NOT A PROBLEM RIGHT?
+
+I don’t think that this dude is ready to orchestrate cryptographic operations on 2048-bit integers.
+
+Another myth spread by security researchers is that the planet Earth contains more than six programmers who can correctly use security labels and information flow control.
+
+This belief requires one to assume that, even though the most popular variable names are “thing” and “thing2,” programmers will magically become disciplined software architects when confronted with a Dungeons-and-Dragons-style type system that requires variables to be annotated with rich biographical data and a list of vulnerabilities to output sinks.
+
+People feel genuine anxiety when asked if they want large fries for just 50 cents more, so I doubt that unfathomable lattice-based calculus is going to be a hit with the youths.
+
+I mean, yes, I understand how one can use labels to write a secure version of HelloWorld(), but once my program gets bigger than ten functions, my desire to think about combinatorial label flows will decrease and be replaced by an urgent desire to DECLASSIFY() so that I can go home and stop worrying about morally troubling phrases like “taint explosion” that are typically associated with the diaper industry and FEMA.
+
+I realize that, in an ideal world, I would recycle my trash, and contribute 10% of my income to charity, and willingly accept the cognitive overhead of fine-grained security labels.
+
+However, pragmatists understand that I will spend the bulk of my disposable income on comic books, and instead of recycling, I will throw all of my trash into New Jersey, where it will self-organize into elaborate “Matrix”-like simulations of the seagull world, simulations that consist solely of choking-hazard-sized particles and seagull-shaped objects that are not seagulls and that will not respond to seagull mating rituals by producing new seagull children.
+
+This is definitely a problem, but problem identification is what makes science fun, and now we know that we need to send SWAT teams into New Jersey to disarm a trash-based cellular automaton that threatens the seagull way of life.
+
+Similarly, we know that IFC research should not focus on what would happen if I somehow used seventeen types of labels to describe three types of variables.
+
+Instead, IFC research should focus on what will happen when I definitely give all my variables The God Label so that my program compiles and I can return to my loved ones.
+
+Incidentally, I think that “The God Label” was an important plot device in the sixth “Dune” novel, but I stopped reading that series after the fifth book and my seven-hundredth time reading a speech that started “WHOEVER CONTROLS THE SPICE CONTROLS THE (SOME THING WHICH IS NOT THE SPICE).”
+
+Also note that if a police officer ever tries to give you a speeding ticket, do not tell him that you are the Kwisatz Haderach and You Can See Where No Bene Gesserit Can See and you cannot see a speeding ticket.
+
+This defense will not hold up in court, and the only “spice” that you will find in prison is made of mouthwash and fermented oranges.
+
+The worst part about growing up is that the world becomes more constrained.
+
+As a child, it seems completely reasonable to build a spaceship out of bed sheets, firecrackers, and lawn furniture; as you get older, you realize that the S.S. Improbable will not take you to space, but instead a lonely killing field of fire, Child Protective Services, and awkward local news interviews, not necessarily in that order, but with everything showing up eventually.
+
+Security research is the continual process of discovering that your spaceship is a deathtrap. 
+
+However, as John F. Kennedy once said, “SCREW IT WE’RE GOING TO THE
+MOON.”
+
+I cannot live my life in fear because someone named PhreakusMaximus at DefConHat 2014 showed that you can induce peanut allergies at a distance using an SMS message and a lock of your victim’s hair.
+
+If that’s how it is, I accept it and move on. Thinking about security is like thinking about where to ride your motorcycle: the safe places are no fun, and the fun places are not safe.
+
+I shall ride wherever my spirit takes me, and I shall find my Gigantic Martian Insect Party, and I will, uh, probably be rent asunder by huge cryptozoological mandibles, but I will die like Thomas Jefferson: free, defiant, and without a security label.
