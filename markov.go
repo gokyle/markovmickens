@@ -279,7 +279,7 @@ func main() {
 			for {
 				tweet = c.Generate(*numWords) // Generate text.
 				tweet = strings.TrimSpace(sentRegexp.FindString(tweet))
-				if len(tweet) != 0 {
+				if len(tweet) > 40 {
 					break
 				}
 			}
